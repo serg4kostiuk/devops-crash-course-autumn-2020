@@ -197,6 +197,18 @@ Please, make him healthy, let him live!"
 126.
 127.
 128.
+
+"Aeneas taking his advice,
+Lay down inside the stall.
+Although he tried to shut his eyes,
+He could not fall asleep at all.
+He rolled from side to side,
+Then smoked his pipe and sighed,
+And only then, exhausted, fell asleep.
+He dreamt about his dad, Anchises,
+Who came from Hell with some advices,
+Because his love for his dear son was deep."
+
 129.
 130.
 131.
