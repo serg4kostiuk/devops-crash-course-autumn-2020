@@ -129,7 +129,16 @@ Until the jig squeaked from the thrust.
 69.
 70.
 71.
-72.
+72.Aeneas was received with friendly affectation,
+As if he were king Acest's dearest kin.
+He led him to his habitation
+And treated him to some fantastic gin.
+They served some bacon as a snack,
+There was of sausage a neat stack,
+A heap of bread was there as well.
+The Trojans were fed woodcock meat
+And after that each went to his own suite
+Located at the building ell.
 73.
 74.
 75.
