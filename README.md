@@ -8,8 +8,8 @@ And made of it, to their great joy,
 A heap of dung, he left that waste
 Together with some Trojan tramps,
 The sun-tanned scamps.
-They all took to their heels in haste.```
-
+They all took to their heels in haste.
+```
 2. 
 3. 
 4. 
