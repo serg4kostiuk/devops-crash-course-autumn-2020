@@ -185,6 +185,16 @@ Please, make him healthy, let him live!"
 124.
 125.
 126.
+"They called him Newtes to tease him,
+Although Okhrym was his true name,
+Was it the people's spite or whim?
+I never knew the man or heard about his fame.
+He saw Aeneas mad and went
+To him in order to prevent
+His outburst. Taking hold of his white hand,
+He led Aeneas to the hall,
+Bowed to his knees just like a thrall
+And said to him: ""I do not understand"
 127.
 128.
 129.
