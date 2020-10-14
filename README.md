@@ -23,20 +23,6 @@ They all took to their heels in haste.
 11.
 12.
 13.
-```
-Now, Venus, not an idle one,
-More skillful than the deuce and chic,
-Observed how Aeolus was frightening her son
-And made him very weak.
-She washed herself, put on a smart new dress,
-As if for Sunday outing, and not less
-Than to a dancing party.
-Upon her head she put a brocade hood,
-In her kuntush* and in a mournful mood,
-She went to Zeus, as always bold and hearty.
-
-* outer clothing
-```
 14.
 15.
 16.
