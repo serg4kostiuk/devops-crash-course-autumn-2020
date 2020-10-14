@@ -54,6 +54,16 @@ She went to Zeus, as always bold and hearty.
 28.
 29.
 30.
+And when the dance was up,
+They drank more brandy with stewed fruit,
+Each woman had at least a cup;
+They laughed and joked and none stayed mute.
+Queen Dido flew into a rage
+And broke a pot with beverage.
+They drank until the night,
+They spent the day elated
+And went to bed intoxicated;
+The task to drag Aeneas was not light.
 31.
 32.
 33.
