@@ -175,6 +175,18 @@ Please, make him healthy, let him live!"
 151.
 152.
 153.
+```
+Aeneas, seeing such a beauty,
+Became unnerved and did not know
+Where he arrived. He thought his work and duty
+Were lost forever. What a blow!
+The scarecrow came to him
+And uttered like a cherubim
+While parting her blue lips:
+"How are you, dear? Long time no see!
+Oh, you, Anchises' progeny!"
+And put her hands upon her bony hips.
+```
 154.
 155.
 156.
