@@ -144,6 +144,18 @@ Located at the building ell.
 ```
 73.
 74.
+```
+Although Aeneas was intoxicated,
+He still remained a lucid man.
+He was a pious son and dedicated
+To his departed father and his clan.
+The day his father croaked,
+He guzzled too much booze and choked;
+That folly caused his premature demise.
+Aeneas wished to give a dinner
+That beggars should pray for the sinner,
+Whom gods should lead to paradise.
+```
 75.
 76.
 77.
