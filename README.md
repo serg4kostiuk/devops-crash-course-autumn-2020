@@ -23,6 +23,20 @@ They all took to their heels in haste.
 11.
 12.
 13.
+```
+Now, Venus, not an idle one,
+More skillful than the deuce and chic,
+Observed how Aeolus was frightening her son
+And made him very weak.
+She washed herself, put on a smart new dress,
+As if for Sunday outing, and not less
+Than to a dancing party.
+Upon her head she put a brocade hood,
+In her kuntush* and in a mournful mood,
+She went to Zeus, as always bold and hearty.
+
+* outer clothing
+```
 14.
 15.
 16.
@@ -48,6 +62,18 @@ They all took to their heels in haste.
 36.
 37.
 38.
+
+The Trojans showed their talents well,
+The girls would not withstand
+The men's enticements andn their spell.
+And so, they were in great demand.
+Aeneas lured his ardent lover
+To take with him steam bath with shower,
+And not without a sin.
+Her reason was so opiated,
+For she was thoroughly infatuated,
+Although shy she had never been.
+
 39.
 40.
 41.
@@ -107,6 +133,18 @@ They all took to their heels in haste.
 95.
 96.
 97.
+```
+When Venus noticed Dares in that brawl,
+She felt a pain inside her head,
+She did not like that sight at all
+And said to Zeus: "My darling dad!
+Give Dares strength, he is my pet,
+Lest they humiliate him and upset,
+He should defeat his foe, it is imperative,
+Because when Dares dies,
+The world will nevermind my cries.
+Please, make him healthy, let him live!"
+```
 98.
 99.
 100.
@@ -142,6 +180,18 @@ They all took to their heels in haste.
 130.
 131.
 132.
+```
+Good-by for now, my precious one!
+It starts to dawn around.
+Good-by, my child, good-by, my son!"
+He sank beneath the surface of the ground.
+Aeneas started from his sleep
+And, trembling, was up in a leap,
+His body was damp from cold sweat.
+He gathered his band all together
+And ordered them regardless of the weather
+To sail, determined and dead set.
+```
 133.
 134.
 135.
@@ -163,11 +213,33 @@ They all took to their heels in haste.
 151.
 152.
 153.
+```
+Aeneas, seeing such a beauty,
+Became unnerved and did not know
+Where he arrived. He thought his work and duty
+Were lost forever. What a blow!
+The scarecrow came to him
+And uttered like a cherubim
+While parting her blue lips:
+"How are you, dear? Long time no see!
+Oh, you, Anchises' progeny!"
+And put her hands upon her bony hips.
+```
 154.
 155.
 156.
 157.
 158.
+Inside, Aeneas started
+To bow to Feb, who looked so grim.
+He begged that blessings be imparted
+From heaven down on him.
+Sivilla changed: her orbs somehow
+Crept out onto her brow,
+Her hair stood up on end,
+Her mouth was frothing,
+Her body wildly tossing,
+As if the devil made her bend.
 159.
 160.
 161.
@@ -176,6 +248,17 @@ They all took to their heels in haste.
 164.
 165.
 166.
+```The sad Aeneas listened to
+Sivilla's babbling stuff.
+He clasped his head, stood there and knew
+He was fed up and said: ""I've heard enough!
+You are annoying me and I
+Don't know what you now prophesy'""
+He did not like that prattling clod.
+'The devil knows who tells the lie,
+Perhaps it would not mortify
+Me, if I had not begged the god.
+```
 167.
 168.
 169.
@@ -198,6 +281,17 @@ They all took to their heels in haste.
 186.
 187.
 188.
+```Behind them were some holy men,
+Who were not interested to see the world,
+Which was beyond their surly ken,
+Their hands were on their bellies, furled.
+They used to passionately pray
+And kept strict fasting every other day.
+They never loudly cursed mankind,
+But criticized while fingering the beads.
+Their days were free of sinful deeds,
+At night, their passions would unwind.
+```
 189.
 190.
 191.
