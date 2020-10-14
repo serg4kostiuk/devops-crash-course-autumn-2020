@@ -107,6 +107,18 @@ They all took to their heels in haste.
 95.
 96.
 97.
+```
+When Venus noticed Dares in that brawl,
+She felt a pain inside her head,
+She did not like that sight at all
+And said to Zeus: "My darling dad!
+Give Dares strength, he is my pet,
+Lest they humiliate him and upset,
+He should defeat his foe, it is imperative,
+Because when Dares dies,
+The world will nevermind my cries.
+Please, make him healthy, let him live!"
+```
 98.
 99.
 100.
