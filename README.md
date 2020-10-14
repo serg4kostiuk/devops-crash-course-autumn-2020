@@ -1,5 +1,4 @@
-1.
-```Aeneas was a robust guy,
+0. ```Aeneas was a robust guy,
 A kozak full of vim,
 Full of the devil, lewd and spry,
 There was no one like him.
@@ -10,6 +9,7 @@ Together with some Trojan tramps,
 The sun-tanned scamps.
 They all took to their heels in haste.
 ```
+1.
 2. 
 3. 
 4. 
