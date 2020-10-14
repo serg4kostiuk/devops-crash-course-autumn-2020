@@ -198,6 +198,17 @@ They all took to their heels in haste.
 186.
 187.
 188.
+```Behind them were some holy men,
+Who were not interested to see the world,
+Which was beyond their surly ken,
+Their hands were on their bellies, furled.
+They used to passionately pray
+And kept strict fasting every other day.
+They never loudly cursed mankind,
+But criticized while fingering the beads.
+Their days were free of sinful deeds,
+At night, their passions would unwind.
+```
 189.
 190.
 191.
