@@ -207,6 +207,17 @@ They all took to their heels in haste.
 195.
 196.
 197.
+```Just like the sediment that foams in kvass,
+Or like fermenting red beets turning sour,
+Or like above a field of grass
+Flies swarming for many an hour,
+So were the souls imploring Charon, the Whim,
+Extending their soliciting hands to him
+To take them on his boat,
+But he remained uncaring,
+Barbaric, cold and swearing.
+That vicious, dirty goat.
+```
 198.
 199.
 200.
