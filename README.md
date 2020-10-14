@@ -180,7 +180,8 @@ Please, make him healthy, let him live!"
 130.
 131.
 132.
-```Good-by for now, my precious one!
+```
+Good-by for now, my precious one!
 It starts to dawn around.
 Good-by, my child, good-by, my son!"
 He sank beneath the surface of the ground.
@@ -229,6 +230,16 @@ And put her hands upon her bony hips.
 156.
 157.
 158.
+Inside, Aeneas started
+To bow to Feb, who looked so grim.
+He begged that blessings be imparted
+From heaven down on him.
+Sivilla changed: her orbs somehow
+Crept out onto her brow,
+Her hair stood up on end,
+Her mouth was frothing,
+Her body wildly tossing,
+As if the devil made her bend.
 159.
 160.
 161.
@@ -237,6 +248,17 @@ And put her hands upon her bony hips.
 164.
 165.
 166.
+```The sad Aeneas listened to
+Sivilla's babbling stuff.
+He clasped his head, stood there and knew
+He was fed up and said: ""I've heard enough!
+You are annoying me and I
+Don't know what you now prophesy'""
+He did not like that prattling clod.
+'The devil knows who tells the lie,
+Perhaps it would not mortify
+Me, if I had not begged the god.
+```
 167.
 168.
 169.
@@ -259,6 +281,17 @@ And put her hands upon her bony hips.
 186.
 187.
 188.
+```Behind them were some holy men,
+Who were not interested to see the world,
+Which was beyond their surly ken,
+Their hands were on their bellies, furled.
+They used to passionately pray
+And kept strict fasting every other day.
+They never loudly cursed mankind,
+But criticized while fingering the beads.
+Their days were free of sinful deeds,
+At night, their passions would unwind.
+```
 189.
 190.
 191.
