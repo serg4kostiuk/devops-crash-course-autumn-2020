@@ -48,6 +48,18 @@ They all took to their heels in haste.
 36.
 37.
 38.
+
+The Trojans showed their talents well,
+The girls would not withstand
+The men's enticements andn their spell.
+And so, they were in great demand.
+Aeneas lured his ardent lover
+To take with him steam bath with shower,
+And not without a sin.
+Her reason was so opiated,
+For she was thoroughly infatuated,
+Although shy she had never been.
+
 39.
 40.
 41.
