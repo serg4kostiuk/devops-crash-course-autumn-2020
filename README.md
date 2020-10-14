@@ -82,6 +82,17 @@ Although shy she had never been.
 44.
 45.
 46.
+```The runner Mercury bowed low
+In front of Zeus, took off his cap,
+Rolled o'er the threshold like a gigolo
+And scampered to the stable with a snap.
+He put away his whip,
+Hitched two mares and began to clip
+From heaven in a cloud of dust.
+And being a supreme taskmaster,
+He made the horses run much faster
+Until the jig squeaked from the thrust.
+```
 47.
 48.
 49.
