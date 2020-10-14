@@ -154,6 +154,17 @@ Please, make him healthy, let him live!"
 130.
 131.
 132.
+```Good-by for now, my precious one!
+It starts to dawn around.
+Good-by, my child, good-by, my son!"
+He sank beneath the surface of the ground.
+Aeneas started from his sleep
+And, trembling, was up in a leap,
+His body was damp from cold sweat.
+He gathered his band all together
+And ordered them regardless of the weather
+To sail, determined and dead set.
+```
 133.
 134.
 135.
