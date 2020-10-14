@@ -252,7 +252,7 @@ To sail, determined and dead set.
 135.
 136.
 137.
-138.
+138..As soon as Venus had had seen The Trojans sailing off, She sped to Neptune-kin to intervene Lest he drown them in some deep trough. She traveled in a splendid phaeton Just like a wife of some high army paragon.The fervid horses made the people shivery.She was led by a kozak guard Lest her wild ride be somehow marred;The coachman wore a livery.
 139.
 140.
 141.
