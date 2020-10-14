@@ -166,7 +166,8 @@ Please, make him healthy, let him live!"
 130.
 131.
 132.
-```Good-by for now, my precious one!
+```
+Good-by for now, my precious one!
 It starts to dawn around.
 Good-by, my child, good-by, my son!"
 He sank beneath the surface of the ground.
