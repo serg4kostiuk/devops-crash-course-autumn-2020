@@ -234,6 +234,17 @@ As if the devil made her bend.
 164.
 165.
 166.
+```The sad Aeneas listened to
+Sivilla's babbling stuff.
+He clasped his head, stood there and knew
+He was fed up and said: ""I've heard enough!
+You are annoying me and I
+Don't know what you now prophesy'""
+He did not like that prattling clod.
+'The devil knows who tells the lie,
+Perhaps it would not mortify
+Me, if I had not begged the god.
+```
 167.
 168.
 169.
