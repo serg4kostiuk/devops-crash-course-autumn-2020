@@ -23,6 +23,18 @@ They all took to their heels in haste.
 11.
 12.
 13.
+```
+Now, Venus, not an idle one,
+More skillful than the deuce and chic,
+Observed how Aeolus was frightening her son
+And made him very weak.
+She washed herself, put on a smart new dress,
+As if for Sunday outing, and not less
+Than to a dancing party.
+Upon her head she put a brocade hood,
+In her kuntush* and in a mournful mood,
+She went to Zeus, as always bold and hearty.
+```
 14.
 15.
 16.
@@ -40,6 +52,18 @@ They all took to their heels in haste.
 28.
 29.
 30.
+```
+And when the dance was up,
+They drank more brandy with stewed fruit,
+Each woman had at least a cup;
+They laughed and joked and none stayed mute.
+Queen Dido flew into a rage
+And broke a pot with beverage.
+They drank until the night,
+They spent the day elated
+And went to bed intoxicated;
+The task to drag Aeneas was not light.
+```
 31.
 32.
 33.
@@ -48,7 +72,7 @@ They all took to their heels in haste.
 36.
 37.
 38.
-
+```
 The Trojans showed their talents well,
 The girls would not withstand
 The men's enticements andn their spell.
@@ -59,7 +83,7 @@ And not without a sin.
 Her reason was so opiated,
 For she was thoroughly infatuated,
 Although shy she had never been.
-
+```
 39.
 40.
 41.
@@ -68,6 +92,18 @@ Although shy she had never been.
 44.
 45.
 46.
+```
+The runner Mercury bowed low
+In front of Zeus, took off his cap,
+Rolled o'er the threshold like a gigolo
+And scampered to the stable with a snap.
+He put away his whip,
+Hitched two mares and began to clip
+From heaven in a cloud of dust.
+And being a supreme taskmaster,
+He made the horses run much faster
+Until the jig squeaked from the thrust.
+```
 47.
 48.
 49.
@@ -94,6 +130,18 @@ Although shy she had never been.
 70.
 71.
 72.
+```
+Aeneas was received with friendly affectation,
+As if he were king Acest's dearest kin.
+He led him to his habitation
+And treated him to some fantastic gin.
+They served some bacon as a snack,
+There was of sausage a neat stack,
+A heap of bread was there as well.
+The Trojans were fed woodcock meat
+And after that each went to his own suite
+Located at the building ell.
+```
 73.
 74.
 75.
@@ -169,8 +217,32 @@ Please, make him healthy, let him live!"
 124.
 125.
 126.
+```
+They called him Newtes to tease him,
+Although Okhrym was his true name,
+Was it the people's spite or whim?
+I never knew the man or heard about his fame.
+He saw Aeneas mad and went
+To him in order to prevent
+His outburst. Taking hold of his white hand,
+He led Aeneas to the hall,
+Bowed to his knees just like a thrall
+And said to him: ""I do not understand
+```
 127.
 128.
+```
+"Aeneas taking his advice,
+Lay down inside the stall.
+Although he tried to shut his eyes,
+He could not fall asleep at all.
+He rolled from side to side,
+Then smoked his pipe and sighed,
+And only then, exhausted, fell asleep.
+He dreamt about his dad, Anchises,
+Who came from Hell with some advices,
+Because his love for his dear son was deep."
+```
 129.
 130.
 131.
@@ -192,7 +264,7 @@ To sail, determined and dead set.
 135.
 136.
 137.
-138.
+138..As soon as Venus had had seen The Trojans sailing off, She sped to Neptune-kin to intervene Lest he drown them in some deep trough. She traveled in a splendid phaeton Just like a wife of some high army paragon.The fervid horses made the people shivery.She was led by a kozak guard Lest her wild ride be somehow marred;The coachman wore a livery.
 139.
 140.
 141.
@@ -225,6 +297,18 @@ And put her hands upon her bony hips.
 156.
 157.
 158.
+```
+Inside, Aeneas started
+To bow to Feb, who looked so grim.
+He begged that blessings be imparted
+From heaven down on him.
+Sivilla changed: her orbs somehow
+Crept out onto her brow,
+Her hair stood up on end,
+Her mouth was frothing,
+Her body wildly tossing,
+As if the devil made her bend.
+```
 159.
 160.
 161.
@@ -233,6 +317,18 @@ And put her hands upon her bony hips.
 164.
 165.
 166.
+```
+The sad Aeneas listened to
+Sivilla's babbling stuff.
+He clasped his head, stood there and knew
+He was fed up and said: ""I've heard enough!
+You are annoying me and I
+Don't know what you now prophesy'""
+He did not like that prattling clod.
+'The devil knows who tells the lie,
+Perhaps it would not mortify
+Me, if I had not begged the god.
+```
 167.
 168.
 169.
@@ -255,6 +351,17 @@ And put her hands upon her bony hips.
 186.
 187.
 188.
+```Behind them were some holy men,
+Who were not interested to see the world,
+Which was beyond their surly ken,
+Their hands were on their bellies, furled.
+They used to passionately pray
+And kept strict fasting every other day.
+They never loudly cursed mankind,
+But criticized while fingering the beads.
+Their days were free of sinful deeds,
+At night, their passions would unwind.
+```
 189.
 190.
 191.
@@ -264,800 +371,18 @@ And put her hands upon her bony hips.
 195.
 196.
 197.
+```
+Just like the sediment that foams in kvass,
+Or like fermenting red beets turning sour,
+Or like above a field of grass
+Flies swarming for many an hour,
+So were the souls imploring Charon, the Whim,
+Extending their soliciting hands to him
+To take them on his boat,
+But he remained uncaring,
+Barbaric, cold and swearing.
+That vicious, dirty goat.
+```
 198.
 199.
 200.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
