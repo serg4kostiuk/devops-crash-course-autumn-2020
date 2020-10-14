@@ -216,6 +216,16 @@ And put her hands upon her bony hips.
 156.
 157.
 158.
+Inside, Aeneas started
+To bow to Feb, who looked so grim.
+He begged that blessings be imparted
+From heaven down on him.
+Sivilla changed: her orbs somehow
+Crept out onto her brow,
+Her hair stood up on end,
+Her mouth was frothing,
+Her body wildly tossing,
+As if the devil made her bend.
 159.
 160.
 161.
