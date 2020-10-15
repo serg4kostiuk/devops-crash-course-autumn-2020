@@ -1,5 +1,6 @@
 0.
-```Aeneas was a robust guy,
+```
+Aeneas was a robust guy,
 A kozak full of vim,
 Full of the devil, lewd and spry,
 There was no one like him.
@@ -124,6 +125,18 @@ Until the jig squeaked from the thrust.
 64.
 65.
 66.
+```
+Aeneas sailed the bluish sea
+And steadily was looking back.
+He fought his pain, cried bitterly
+As Carthage passed from sight, alack!
+Although he sailed from Dido fast,
+It seemed that his keen pain would last.
+But when he heard that she was burned,
+He said: "May she attain an endless bliss.
+For me another widow's kiss
+And then a lordly life well earned."
+```
 67.
 68.
 69.
@@ -171,6 +184,7 @@ Nobody's here your foe,
 We want to help you, too!""
 ```
 77.
+<<<<<<< HEAD
 78. Next day before the sunrise every man
 Was hurrying outside, where in the yard
 They made big fire and began
@@ -192,6 +206,31 @@ For everyone to eat his fill.
     Until they could not gulp another bite,
     And could not stand upright.
     The father's soul was not on anybody's mind."
+=======
+78. Next day before the sunrise every man
+    Was hurrying outside, where in the yard
+        They made big fire and began
+        To boil meat chunks in water and in lard.
+        Five kettles filled with soup were there
+        And four with dumplings good beyond compare,
+        At least six pots of borshch with dill,
+        Besides, huge numbers of cooked rams,
+        And many chickens, geese, and even clams
+        For everyone to eat his fill.
+    79. 
+``` 
+"Large buckets full of whiskey
+ And vats of brandy soon
+ Were ready to be drunk; the horde was frisky
+ When everyone received a spoon.
+ When they were singing ""Rest in peace with saints
+ Aeneas cried without restraints.
+ The binge began full force. They dined
+ Until they could not gulp another bite,
+ And could not stand upright.
+ The father's soul was not on anybody's mind."
+```
+>>>>>>> e19a6e14cf7269b061c245e86a7f5a52b58be8f6
 80.
 81.
 82.
@@ -343,6 +382,7 @@ And put her hands upon her bony hips.
 ```
 154.
 155.
+```
 Although I don't go out,
 I know a lot about catarrhs,
 I help the people who have gout,
@@ -353,6 +393,7 @@ From sickness caused by evil eye.
 I whisper-cast with melted lead,
 i charm the snakes, heal sickness in the head
 I rectify what goes awry.
+```
 157.
 158.
 ```
@@ -409,7 +450,8 @@ Me, if I had not begged the god.
 186.
 187.
 188.
-```Behind them were some holy men,
+```
+Behind them were some holy men,
 Who were not interested to see the world,
 Which was beyond their surly ken,
 Their hands were on their bellies, furled.
