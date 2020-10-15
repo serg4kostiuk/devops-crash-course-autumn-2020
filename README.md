@@ -361,6 +361,18 @@ As soon as Venus had had seen The Trojans sailing off, She sped to Neptune-kin t
 141.
 142.
 143.
+```
+They sang about the iron-fisted
+Brave Sahaidachny, the knight,
+And how the lancers were enlisted,
+About a kozak marching the entire night.
+The Swedish war was glorified,
+Where at Poltawa many died.
+They sang about a mum, who send her son
+To Bendery to fight
+The ruthless fiendish might,
+Where hunger killed them, not the gun.
+```
 144.
 145.
 146.
