@@ -171,6 +171,7 @@ Whom gods should lead to paradise.
 ```
 75.
 76.
+
 ``` 
 I want to commemorate his soul 
 By giving dinner to the poor -
@@ -183,8 +184,8 @@ And if you want to know,
 Nobody's here your foe,
 We want to help you, too!""
 ```
-77.
-<<<<<<< HEAD
+77. 
+
 78. Next day before the sunrise every man
 Was hurrying outside, where in the yard
 They made big fire and began
@@ -205,8 +206,9 @@ For everyone to eat his fill.
     The binge began full force. They dined
     Until they could not gulp another bite,
     And could not stand upright.
-    The father's soul was not on anybody's mind."
-=======
+    
+The father's soul was not on anybody's mind."
+    =======
 78. Next day before the sunrise every man
     Was hurrying outside, where in the yard
         They made big fire and began
@@ -217,6 +219,7 @@ For everyone to eat his fill.
         Besides, huge numbers of cooked rams,
         And many chickens, geese, and even clams
         For everyone to eat his fill.
+    
     79. 
 ``` 
 "Large buckets full of whiskey
