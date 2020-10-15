@@ -493,6 +493,18 @@ As if the devil made her bend.
 163.
 164.
 165.
+```
+The witch replied in drawl:
+""You play with fire, as I see.
+You don't know Hell at all,
+You do not like the world sufficiently,
+In Hell they never jest,
+When you are there, you'll be distressed,
+You'll feel discomfort there,
+It is a horrid place,
+And when you see the populace,
+You might feel desperation, so beware!
+```
 166.
 ```
 The sad Aeneas listened to
