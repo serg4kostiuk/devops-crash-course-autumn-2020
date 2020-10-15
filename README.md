@@ -124,6 +124,18 @@ Until the jig squeaked from the thrust.
 64.
 65.
 66.
+```
+Aeneas sailed the bluish sea
+And steadily was looking back.
+He fought his pain, cried bitterly
+As Carthage passed from sight, alack!
+Although he sailed from Dido fast,
+It seemed that his keen pain would last.
+But when he heard that she was burned,
+He said: "May she attain an endless bliss.
+For me another widow's kiss
+And then a lordly life well earned."
+```
 67.
 68.
 69.
