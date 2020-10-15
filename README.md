@@ -210,6 +210,16 @@ They all took to their heels in haste.
 198.
 199.
 200.
+They moved much nearer and could squeeze
+Between those waiting for their turn,
+Where that old fart besmeared with grease,
+Was like a deuce without concern.
+That swearing, screaming bloke
+Mocked and abused the Christian folk,
+As they do so in our public house,
+And no one ever heard
+From him a decent word,
+They just endured that ugly louse.
 
 
 
