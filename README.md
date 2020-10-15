@@ -432,6 +432,18 @@ The ruthless fiendish might,
 Where hunger killed them, not the gun.
 ```
 144.
+```
+"Well, nothing is achieved as fast
+As telling stories of forays.
+Although Aeneas' speed made one aghast,
+His sailing lasted many days.
+They spent a long time at the sea,
+Meandering there endlessly,
+And none of them exactly knew
+Why they were wandering about
+And they began to doubt
+That their Aeneas had a clue."
+```
 145.
 ```
 So, after they had sailed and fought
