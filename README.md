@@ -101,7 +101,18 @@ Although shy she had never been.
 41.
 42.
 43.
-44.
+```
+The envoy, Mercury, arrived headlong,
+All bathed in sweat at that.
+He bound his body with a thong,
+Upon his head he had a hat,
+Upon his chest - a cartridge pack,
+A bag with crackers - on his back,
+And in his hand a whip.
+Equipped like that, he rushed inside
+And said: "I'm ready, Daddy, for the ride,
+Just send me anywhere and I will zip!"
+```
 45.
 46.
 ```
