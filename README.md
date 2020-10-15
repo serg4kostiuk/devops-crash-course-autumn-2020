@@ -119,7 +119,16 @@ Until the jig squeaked from the thrust.
 58.
 59.
 60.
-61.
+61.```I'll have no peace in life, alack!
+No tears are running from my eyes,
+For me the white world turned all black.
+It's bright where my Aeneas plies.
+You greenhorn puppy, Cupid!
+Enjoy the weeping Dido, stupid!
+You should have died when you were born!
+Remember, married women, Nature's whim,
+That all Aeneas' brats resemble him.
+And may the devil grab all those who are lovelorn!```
 62.
 63.
 64.
@@ -375,6 +384,18 @@ Where hunger killed them, not the gun.
 ```
 144.
 145.
+```
+So, after they had sailed and fought
+The elements to find the proper way,
+Quite suddenly they saw what they sought,
+A land! Thus ended their dismay.
+They docked the boats, and each
+Of them enjoyed the beach,
+Just standing to unwind.
+The country - Kumy was its name -
+Made all them happy that they came
+To it. The natives were extremely kind.
+```
 146.
 147.
 148.
