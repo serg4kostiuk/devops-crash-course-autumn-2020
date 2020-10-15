@@ -372,6 +372,18 @@ As soon as Venus had had seen The Trojans sailing off, She sped to Neptune-kin t
 143.
 144.
 145.
+```
+So, after they had sailed and fought
+The elements to find the proper way,
+Quite suddenly they saw what they sought,
+A land! Thus ended their dismay.
+They docked the boats, and each
+Of them enjoyed the beach,
+Just standing to unwind.
+The country - Kumy was its name -
+Made all them happy that they came
+To it. The natives were extremely kind.
+```
 146.
 147.
 148.
