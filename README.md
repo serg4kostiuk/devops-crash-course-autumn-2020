@@ -423,18 +423,7 @@ Made all them happy that they came
 To it. The natives were extremely kind.
 ```
 146.
-```
-Those vagrants were so energetic,
-They soon made friends and being nice,
-Like devils clever and frenetic,
-They also knew how to entice.
-At once, they fraternized,
-They married and were not surprised
-That they had found a home to share.
-All those with practical abilities
-Found for themselves good possibilities
-To work. There was an uproar everywhere.
-```
+147.
 148.
 149.
 150.
@@ -608,3 +597,13 @@ To wait a century or more.
 ```
 199.
 200.
+```They moved much nearer and could squeeze
+Between those waiting for their turn,
+Where that old fart besmeared with grease,
+Was like a deuce without concern.
+That swearing, screaming bloke
+Mocked and abused the Christian folk,
+As they do so in our public house,
+And no one ever heard
+From him a decent word,
+They just endured that ugly louse.```
