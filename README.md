@@ -157,6 +157,7 @@ That beggars should pray for the sinner,
 Whom gods should lead to paradise.
 ```
 75.
+<<<<<<< HEAD
 76.
 ``` 
 I want to commemorate his soul 
@@ -170,6 +171,18 @@ And if you want to know,
 Nobody's here your foe,
 We want to help you, too!"
 ```
+=======
+76.	I want to commemorate his soul
+	By giving dinner to the poor -
+	Tomorrow - I will not postpone this dole.
+	What do you think? Should I abjure?"
+	That's what the Trojans wanted badly
+	To hear. They all together hollered madly:
+	"Aeneas, may good gods help you!
+	And if you want to know,
+	Nobody's here your foe,
+	We want to help you, too!"
+>>>>>>> Mertash
 77.
 78.
 79. "Large buckets full of whiskey
