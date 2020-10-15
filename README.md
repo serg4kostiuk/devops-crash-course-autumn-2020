@@ -73,6 +73,18 @@ When suddenly he came to a town.
 25.
 26.
 27.
+```
+They drank full cups of what was handy:
+Mead, beer, kvass, a share
+Of liquor, whisky and of brandy;
+A scent of juniper refreshed the air.
+Bandura played a merry tune,
+Helped by a violin and a bassoon.
+A bevy of gay, gorgeous girls
+Danced to the music of that band,
+Where reed pipe sound was bland,
+The place revolved with twists and twirls
+```
 28.
 29.
 30.
