@@ -136,7 +136,9 @@ Until the jig squeaked from the thrust.
 53.
 54.
 55.
-56.Go, have a rendezvous with deuce!
+56.
+```
+Go, have a rendezvous with deuce!
 May he appear to you in sleep!
 And may your enemies abduce
 You, bastards, in the swiftest sweep!
@@ -146,11 +148,14 @@ And no one should survive;
 May you not know a better fate
 And may the torments penetrate
 You so that you forever ramble half alive!"
+```
 57.
 58.
 59.
 60.
-61.```I'll have no peace in life, alack!
+61.
+```
+I'll have no peace in life, alack!
 No tears are running from my eyes,
 For me the white world turned all black.
 It's bright where my Aeneas plies.
@@ -159,7 +164,8 @@ Enjoy the weeping Dido, stupid!
 You should have died when you were born!
 Remember, married women, Nature's whim,
 That all Aeneas' brats resemble him.
-And may the devil grab all those who are lovelorn!```
+And may the devil grab all those who are lovelorn!
+```
 62.
 63.
 64.
@@ -225,8 +231,9 @@ Nobody's here your foe,
 We want to help you, too!""
 ```
 77. 
-
-78. Next day before the sunrise every man
+78. 
+```
+Next day before the sunrise every man
 Was hurrying outside, where in the yard
 They made big fire and began
 To boil meat chunks in water and in lard.
@@ -236,31 +243,8 @@ At least six pots of borshch with dill,
 Besides, huge numbers of cooked rams,
 And many chickens, geese, and even clams
 For everyone to eat his fill.
-
-79. "Large buckets full of whiskey
-    And vats of brandy soon
-    Were ready to be drunk; the horde was frisky
-    When everyone received a spoon.
-    When they were singing ""Rest in peace with saints
-    Aeneas cried without restraints.
-    The binge began full force. They dined
-    Until they could not gulp another bite,
-    And could not stand upright.
-    
-The father's soul was not on anybody's mind."
-    =======
-78. Next day before the sunrise every man
-    Was hurrying outside, where in the yard
-        They made big fire and began
-        To boil meat chunks in water and in lard.
-        Five kettles filled with soup were there
-        And four with dumplings good beyond compare,
-        At least six pots of borshch with dill,
-        Besides, huge numbers of cooked rams,
-        And many chickens, geese, and even clams
-        For everyone to eat his fill.
-    
-    79. 
+```
+ 79. 
 ``` 
 "Large buckets full of whiskey
  And vats of brandy soon
