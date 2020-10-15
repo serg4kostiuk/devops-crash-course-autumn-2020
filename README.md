@@ -333,7 +333,16 @@ And put her hands upon her bony hips.
 ```
 154.
 155.
-156.
+Although I don't go out,
+I know a lot about catarrhs,
+I help the people who have gout,
+And make predictions by the stars.
+I also can cure fever
+And readily deliver
+From sickness caused by evil eye.
+I whisper-cast with melted lead,
+i charm the snakes, heal sickness in the head
+I rectify what goes awry.
 157.
 158.
 ```
