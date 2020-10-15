@@ -439,7 +439,18 @@ Made all them happy that they came
 To it. The natives were extremely kind.
 ```
 146.
-147.
+```
+Those vagrants were so energetic,
+They soon made friends and being nice,
+Like devils clever and frenetic,
+They also knew how to entice.
+At once, they fraternized,
+They married and were not surprised
+That they had found a home to share.
+All those with practical abilities
+Found for themselves good possibilities
+To work. There was an uproar everywhere.
+```
 148.
 149.
 150.
