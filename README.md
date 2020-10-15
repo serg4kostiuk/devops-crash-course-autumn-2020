@@ -431,7 +431,8 @@ But he remained uncaring,
 Barbaric, cold and swearing.
 That vicious, dirty goat.
 ```
-198.''' 
+198.
+``` 
 He swung his rudder pole
 And pushed it into everybody's snout,
 He kept away each soul
@@ -442,6 +443,6 @@ Straight to the other shore.
 And when it was his whim,
 He'd leave a soul out on a limb
 To wait a century or more.
-'''
+```
 199.
 200.
