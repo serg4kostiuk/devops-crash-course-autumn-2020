@@ -281,7 +281,6 @@ For everyone to eat his fill.
  And could not stand upright.
  The father's soul was not on anybody's mind."
 ```
->>>>>>> e19a6e14cf7269b061c245e86a7f5a52b58be8f6
 80.
 81.
 82.
