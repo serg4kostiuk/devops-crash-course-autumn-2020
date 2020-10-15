@@ -325,10 +325,6 @@ And groaned, the miserable clown.
 116.
 117.
 118.
-119.
-120.
-121.
-122.
 ```
 You greybeard Neptune, viewing you,
 You are a good protector!
@@ -341,6 +337,10 @@ You're quite a profiteer,
 To help the poor, you're not a volunteer,
 It's not your urgent matter.
 ```
+119.
+120.
+121.
+122.
 123.
 124.
 125.
