@@ -289,6 +289,16 @@ Please, make him healthy, let him live!"
 101.
 102.
 103.
+```He foamed with wrath,
+And being raving mad,
+Approached that psychopath
+And walloped him across the head.
+The eyes of Dares first grew dim, ahem!
+Then sparks flew out of them.
+Knocked out, he tumbled down
+And, lying on the ground,
+He sniffed it like a hound
+And groaned, the miserable clown.```
 104.
 105.
 106.
@@ -380,8 +390,32 @@ As soon as Venus had had seen The Trojans sailing off, She sped to Neptune-kin t
 141.
 142.
 143.
+```
+They sang about the iron-fisted
+Brave Sahaidachny, the knight,
+And how the lancers were enlisted,
+About a kozak marching the entire night.
+The Swedish war was glorified,
+Where at Poltawa many died.
+They sang about a mum, who send her son
+To Bendery to fight
+The ruthless fiendish might,
+Where hunger killed them, not the gun.
+```
 144.
 145.
+```
+So, after they had sailed and fought
+The elements to find the proper way,
+Quite suddenly they saw what they sought,
+A land! Thus ended their dismay.
+They docked the boats, and each
+Of them enjoyed the beach,
+Just standing to unwind.
+The country - Kumy was its name -
+Made all them happy that they came
+To it. The natives were extremely kind.
+```
 146.
 147.
 148.
