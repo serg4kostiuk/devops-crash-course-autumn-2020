@@ -237,6 +237,18 @@ Please, make him healthy, let him live!"
 120.
 121.
 122.
+```
+You greybeard Neptune, viewing you,
+You are a good protector!
+You're sitting in the water like a bugaboo
+And wrinkled like a spectre!
+If you just shook your head
+To flood these flames instead,
+May your wee trident shatter!
+You're quite a profiteer,
+To help the poor, you're not a volunteer,
+It's not your urgent matter.
+```
 123.
 124.
 125.
