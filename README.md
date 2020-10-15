@@ -112,8 +112,7 @@ They all took to their heels in haste.
 100.
 101.
 102.
-103.
-```He foamed with wrath,
+103.```He foamed with wrath,
 And being raving mad,
 Approached that psychopath
 And walloped him across the head.
