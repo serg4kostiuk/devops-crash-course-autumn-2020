@@ -448,6 +448,18 @@ To it. The natives were extremely kind.
 146.
 147.
 148.
+```
+Whenever were some parties
+Throughout the night,
+The Trojan smarties
+Took part in them all right,
+Attracted by the girls and eager wives
+Who had unusual sex drives.
+When their men were intoxicated,
+The Trojans had with them good time,
+They did not think it was a crime
+To be in some dark nook accommodated.
+```
 149.
 150.
 151.
