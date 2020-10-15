@@ -286,6 +286,16 @@ For everyone to eat his fill.
 82.
 83.
 84.
+When he calmed down, it was his wish
+To see some sporting competition.
+He hollered, being drunk and feverish,
+To get some boxers in a prime condition.
+School students in the open windows sang,
+And Gypsy women capered with a bang,
+Blind kobza players were there, too,
+While young intoxicated boys
+Yelled, screamed and made a dreadful noise,
+Which was impossible to subdue.
 85.
 86.
 87.
@@ -432,6 +442,18 @@ The ruthless fiendish might,
 Where hunger killed them, not the gun.
 ```
 144.
+```
+"Well, nothing is achieved as fast
+As telling stories of forays.
+Although Aeneas' speed made one aghast,
+His sailing lasted many days.
+They spent a long time at the sea,
+Meandering there endlessly,
+And none of them exactly knew
+Why they were wandering about
+And they began to doubt
+That their Aeneas had a clue."
+```
 145.
 ```
 So, after they had sailed and fought
