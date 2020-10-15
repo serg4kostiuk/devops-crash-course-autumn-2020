@@ -168,7 +168,7 @@ To hear. They all together hollered madly:
 "Aeneas, may good gods help you!
 And if you want to know,
 Nobody's here your foe,
-We want to help you, too!"
+We want to help you, too!""
 ```
 77.
 78.
