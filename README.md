@@ -23,6 +23,18 @@ They all took to their heels in haste.
 10.
 11.
 12.
+```
+The plates were put on pine tree boards, arranged
+As tables. Then without a word
+They stuffed their mouths while none exchanged
+A word, because it wouldn't be heard.
+They gobbled dumplings with hog's grease,
+And swallowed cornmeal pap with ease,
+And washed them down with whisky.
+They sipped some brandy, too,
+Till they laboriously withdrew
+And went to sleep, some quiet and some frisky.
+```
 13.
 ```
 Now, Venus, not an idle one,
