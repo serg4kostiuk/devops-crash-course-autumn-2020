@@ -126,6 +126,7 @@ Although shy she had never been.
 42.
 43.
 ```
+```
 The envoy, Mercury, arrived headlong,
 All bathed in sweat at that.
 He bound his body with a thong,
