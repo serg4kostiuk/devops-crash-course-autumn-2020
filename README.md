@@ -1,5 +1,6 @@
 0.
-```Aeneas was a robust guy,
+```
+Aeneas was a robust guy,
 A kozak full of vim,
 Full of the devil, lewd and spry,
 There was no one like him.
@@ -416,7 +417,8 @@ Me, if I had not begged the god.
 186.
 187.
 188.
-```Behind them were some holy men,
+```
+Behind them were some holy men,
 Who were not interested to see the world,
 Which was beyond their surly ken,
 Their hands were on their bellies, furled.
