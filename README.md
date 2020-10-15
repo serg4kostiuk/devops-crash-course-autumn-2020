@@ -444,6 +444,16 @@ Me, if I had not begged the god.
 177.
 178.
 179.
+"You should have on your trip
+A good supply of bread,
+For often you won't find a chip
+Of any food and not a tiny shred.
+I beat the footpath straight to Hell,
+And frequently was there, to tell
+You, I know well the people there.
+I know there every road,
+How frequently I strode
+Each path there, everywhere."""
 180.
 181.
 182.
