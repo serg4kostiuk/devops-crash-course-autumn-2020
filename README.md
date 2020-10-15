@@ -113,6 +113,16 @@ They all took to their heels in haste.
 101.
 102.
 103.
+```He foamed with wrath,
+And being raving mad,
+Approached that psychopath
+And walloped him across the head.
+The eyes of Dares first grew dim, ahem!
+Then sparks flew out of them.
+Knocked out, he tumbled down
+And, lying on the ground,
+He sniffed it like a hound
+And groaned, the miserable clown.```
 104.
 105.
 106.
