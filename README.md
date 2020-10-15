@@ -383,6 +383,16 @@ It's not your urgent matter.
 122.
 123.
 124.
+####There was an odd man there, a lunatic,
+####Who, always still, was sitting in the crowd,
+####And scraped the wet ground with a stick,
+####While other men were bickering aloud.
+####He was a tramp, a son of a bitch,
+####A close kin to many a witch,
+####A fortune-teller, a vampire;
+####His magic could curb even fever
+####And blood plague of a Christian believer,
+####His dams made him a fellow to admire.
 125.
 126.
 ```
