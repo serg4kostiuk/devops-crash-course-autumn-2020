@@ -172,16 +172,19 @@ We want to help you, too!""
 ```
 77.
 78.
-79. "Large buckets full of whiskey
-    And vats of brandy soon
-    Were ready to be drunk; the horde was frisky
-    When everyone received a spoon.
-    When they were singing ""Rest in peace with saints
-    Aeneas cried without restraints.
-    The binge began full force. They dined
-    Until they could not gulp another bite,
-    And could not stand upright.
-    The father's soul was not on anybody's mind."
+79.
+``` 
+"Large buckets full of whiskey
+ And vats of brandy soon
+ Were ready to be drunk; the horde was frisky
+ When everyone received a spoon.
+ When they were singing ""Rest in peace with saints
+ Aeneas cried without restraints.
+ The binge began full force. They dined
+ Until they could not gulp another bite,
+ And could not stand upright.
+ The father's soul was not on anybody's mind."
+```
 80.
 81.
 82.
