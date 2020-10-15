@@ -123,6 +123,18 @@ Although shy she had never been.
 39.
 40.
 41.
+```
+Well, nothing can be done as fast
+As winking with an eye.
+Or telling yarns which would not last
+Much longer than one writes an ""i"".
+A long, long time Aeneas spent
+At Dido's. He forgot why he was sent
+By Zeus and what he was supposed to do.
+He might have spent more than two years
+In idleness together with his buccaneers,
+Had not a foe arranged with him a rendezvous.
+```
 42.
 43.
 ```
