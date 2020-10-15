@@ -51,7 +51,8 @@ Lest they be pooped when they resumed
 Their walk in all directions up and down.
 Aeneas stuck close to the shore,
 He did not know what he was looking for,
-When suddenly he came to a town.```
+When suddenly he came to a town.
+```
 20.
 21.
 22.
@@ -307,7 +308,8 @@ Then sparks flew out of them.
 Knocked out, he tumbled down
 And, lying on the ground,
 He sniffed it like a hound
-And groaned, the miserable clown.```
+And groaned, the miserable clown.
+```
 104.
 105.
 106.
