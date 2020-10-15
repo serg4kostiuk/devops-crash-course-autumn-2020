@@ -286,6 +286,16 @@ For everyone to eat his fill.
 82.
 83.
 84.
+When he calmed down, it was his wish
+To see some sporting competition.
+He hollered, being drunk and feverish,
+To get some boxers in a prime condition.
+School students in the open windows sang,
+And Gypsy women capered with a bang,
+Blind kobza players were there, too,
+While young intoxicated boys
+Yelled, screamed and made a dreadful noise,
+Which was impossible to subdue.
 85.
 86.
 87.
