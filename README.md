@@ -124,7 +124,16 @@ Until the jig squeaked from the thrust.
 53.
 54.
 55.
-56.
+56.Go, have a rendezvous with deuce!
+May he appear to you in sleep!
+And may your enemies abduce
+You, bastards, in the swiftest sweep!
+And may you slowly burn and choke,
+Then simply all of you should croak
+And no one should survive;
+May you not know a better fate
+And may the torments penetrate
+You so that you forever ramble half alive!"
 57.
 58.
 59.
