@@ -67,6 +67,16 @@ When suddenly he came to a town.
 ```
 20.
 21.
+"Where are you from, you debauchees?
+Do you cart fishes from the Don?
+Or are you migrants-refugees?
+Where to is heading now your echelon?
+What kind of foe directed you to us?
+And what a band so mutinous
+Has landed here in our city!"
+The Trojans fell before that dame
+And murmured: "We are tame"
+Then rose and said: "Have pity!
 22.
 23. Hello World.
 24.
