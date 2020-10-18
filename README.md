@@ -369,6 +369,18 @@ And groaned, the miserable clown.
 110.
 111.
 112.
+```
+Now, listen, girls, and pay attention,
+I'll offer you some good advice.
+And you'll get rid of your bad tension,
+Let's finish paying such a price.
+Let's answer their snub tit for tat,
+How long we should be here like that?
+Let's burn the boats!
+The men will stay right here,
+They will adhere
+To us, those billy-goats!"
+```
 113.
 114.
 115.
