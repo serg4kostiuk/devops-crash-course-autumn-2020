@@ -80,7 +80,16 @@ Then rose and said: "Have pity!
 ```
 22.
 23. 
-```Hello World.
+```Have mercy, noble matron!
+Do not allow that we all rot,
+Be charitable, be our patron.
+Aeneas will thank you a lot.
+Our clothing is in tatters,
+The rough road damages and batters
+Our shoes. We were with horror struck
+Like rain-soaked puppies. We have lost
+Our fur coats that would cost
+A lot of dough. Oh, what ill-luck!"
 ```
 24.
 25.
