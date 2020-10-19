@@ -206,6 +206,19 @@ When suddenly he came to a town.```
 184.
 185.
 186.
+```
+One could detect no end to it.
+There was a drove of others:
+And Death was followed by an exquisite
+Hodgepodge of vicious in-laws and stepmothers.
+Stepfathers were there, too, the big cajolers,
+And many relatives, high rollers,
+Some angry brothers, sisters,
+Who liked to quarrel constantly,
+And caused bad blood incessantly,
+All obstinate persisters.
+```
+
 187.
 188.
 189.
