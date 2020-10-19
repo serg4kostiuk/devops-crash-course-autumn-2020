@@ -403,6 +403,17 @@ It's not your urgent matter.
 120.
 121.
 122.
+No sooner had he finished praying,
+And stopped to beg and shout,
+Than rain from heaven started spraying,.
+And when the deluge came, the blaze was out.
+The downpour made the people groan,
+For they were soaked down to the bone.
+The Trojans scampered in dismay
+To hide from that incessant torrent,
+Which to them was abhorrent;
+They even learned to hate a little spray.
+
 123.
 124.
 ```
