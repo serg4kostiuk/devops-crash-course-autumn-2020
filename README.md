@@ -567,7 +567,18 @@ The Trojans had with them good time,
 They did not think it was a crime
 To be in some dark nook accommodated.
 ```
-149.
+```
+For many, playing cards, was great delight,
+Nobody had to sit and twirl his thumbs;
+They often played cards till midnight
+Together with their chums:
+Bridge, baccarat, canasta and so on,
+They laughed when someone lost, or won.
+They ail were entertained
+While drinking, playing games
+And paying much attention to the dames.
+All people were involved and none complained.
+```
 150.
 151.
 152.
