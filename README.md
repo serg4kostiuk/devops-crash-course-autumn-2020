@@ -615,7 +615,7 @@ As if the devil made her bend.
 159.
 160.
 ```
-"When she retrieved her sanity a bit,
+When she retrieved her sanity a bit,
 She wiped the foam from her harelips
 And growled Feb's order to remit
 Onto Aeneas these important tips:
@@ -624,7 +624,7 @@ To let you know their wise prevision;
 You won't remain in Rome. However,
 You will be known there very well,
 Your name will be applauded without parallel,
-But you do not rejoice yet and be clever."
+But you do not rejoice yet and be clever.
 ```
 161.
 162.
